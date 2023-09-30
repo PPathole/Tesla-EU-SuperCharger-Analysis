@@ -12,6 +12,6 @@ Key Findings:
 
 2. Station Capacity and Power: Insights into the number of charging stalls at each station and their respective power capacities were elucidated. This information offered a nuanced understanding of the charging infrastructure's capabilities in different locations.
 
-3. Power Distribution Analysis: The analysis further delved into the power distribution across charging stalls. This included identifying the proportion of stations offering different power levels (e.g., 150 kW, 250 kW), providing a comprehensive view of the charging landscape.
+3. Power Distribution Analysis: The analysis further delved into the power distribution across charging stalls. This included identifying the proportion of stations offering different power levels (e.g., 150 kW, 250 kW), and providing a comprehensive view of the charging landscape.
 
 Overall, this project not only offered a visual representation of the Tesla Supercharger landscape in the EU region but also provided actionable insights for stakeholders in the electric vehicle ecosystem, contributing to a more informed understanding of charging infrastructure in this dynamic and rapidly evolving sector.
