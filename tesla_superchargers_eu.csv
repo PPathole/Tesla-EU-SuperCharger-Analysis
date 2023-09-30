@@ -1,0 +1,698 @@
+location.latitude,location.longitude,name,power,type,stalls,country
+50.583368,3.089888,"Tesla Supercharger Lille, France - Lesquin",150,SITE_TYPE_SUPERCHARGER,16,France
+46.57734067,4.89953818,"Tesla Supercharger Tournus, France",250,SITE_TYPE_SUPERCHARGER,20,France
+51.671308,5.60267,"Tesla Supercharger Uden, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+51.094988,4.011808,"Tesla Supercharger Lokeren, Belgium",250,SITE_TYPE_SUPERCHARGER,14,Belgium
+45.16724,1.483119,"Tesla Supercharger Brive-la-Gaillarde, France",250,SITE_TYPE_SUPERCHARGER,20,France
+46.378453,2.586523,"Tesla Supercharger Montluçon, France - Aire des Vérités",250,SITE_TYPE_SUPERCHARGER,8,France
+49.16398,-0.424802,"Tesla Supercharger Caen, France",150,SITE_TYPE_SUPERCHARGER,12,France
+43.389217,-5.803677,"Tesla Supercharger Lugones, Spain",250,SITE_TYPE_SUPERCHARGER,12,Spain
+49.359721,0.817754,"Tesla Supercharger Bourg-Achard, France",250,SITE_TYPE_SUPERCHARGER,20,France
+45.46753199,8.46223164,"Tesla Supercharger Vicolungo, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+47.2717489,5.04348475,"Tesla Supercharger Dijon, France",250,SITE_TYPE_SUPERCHARGER,16,France
+43.89258,8.039121,"Tesla Supercharger Imperia, Italy",150,SITE_TYPE_SUPERCHARGER,10,Italy
+49.787019,3.335626,"Tesla Supercharger Aire d'Urvillers, France",150,SITE_TYPE_SUPERCHARGER,8,France
+45.655436,6.365683,"Tesla Supercharger Albertville, France",250,SITE_TYPE_SUPERCHARGER,16,France
+47.865293,11.790743,"Tesla Supercharger Weyarn, Germany",138,SITE_TYPE_SUPERCHARGER,18,Germany
+45.412326,10.970212,"Tesla Supercharger Verona, Italy",150,SITE_TYPE_SUPERCHARGER,10,Italy
+53.6305,-2.692696,"Tesla Supercharger Charnock Richard, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+47.817073,12.120631,"Tesla Supercharger Rosenheim, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.728372,11.361923,"Tesla Supercharger Sindelsdorf, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+46.682284,14.678985,"Tesla Supercharger Völkermarkt, Austria",250,SITE_TYPE_SUPERCHARGER,16,Austria
+52.404698,-4.064559,"Tesla Supercharger Aberystwyth, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+51.687636,-0.223596,"Tesla Supercharger South Mimms, UK ",150,SITE_TYPE_SUPERCHARGER,12,UK
+53.507374,11.096817,"Tesla Supercharger Wittenburg, Germany ",250,SITE_TYPE_SUPERCHARGER,10,Germany
+47.923424,10.208663,"Tesla Supercharger Woringen, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+45.524971,5.976568,"Tesla Supercharger Aire de l'Abis, France",250,SITE_TYPE_SUPERCHARGER,12,France
+47.01739,8.30147,"Tesla Supercharger Kriens, Switzerland",250,SITE_TYPE_SUPERCHARGER,12,Switzerland
+59.112402,10.108727,"Tesla Supercharger Ringdalskogen, Norway",150,SITE_TYPE_SUPERCHARGER,20,Norway
+50.588724,4.308133,"Tesla Supercharger Nivelles-Sud, Belgium",150,SITE_TYPE_SUPERCHARGER,12,Belgium
+53.314145,-1.281904,"Tesla Supercharger Woodall, UK - Southbound",125,SITE_TYPE_SUPERCHARGER,8,UK
+51.911281,7.398489,"Tesla Supercharger Nottuln, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+48.638215,6.184349,"Tesla Supercharger Nancy, France",150,SITE_TYPE_SUPERCHARGER,8,France
+41.38932,2.13371,"Tesla Supercharger Barcelona - L'Illa Diagonal, Spain",150,SITE_TYPE_SUPERCHARGER,4,Spain
+52.983494,9.925521,"Tesla Supercharger Soltau, Germany - Soltau-Ost",250,SITE_TYPE_SUPERCHARGER,20,Germany
+47.559299,14.252501,"Tesla Supercharger Liezen, Austria",130,SITE_TYPE_SUPERCHARGER,8,Austria
+45.511492,9.634821,"Tesla Supercharger Adda Nord, Italy",250,SITE_TYPE_SUPERCHARGER,4,Italy
+57.814044,13.418968,"Tesla Supercharger Ulricehamn, Sweden",150,SITE_TYPE_SUPERCHARGER,20,Sweden
+46.136916,6.1243,"Tesla Supercharger Archamps, France",150,SITE_TYPE_SUPERCHARGER,8,France
+48.754865,2.373034,"Tesla Supercharger Thiais, France",150,SITE_TYPE_SUPERCHARGER,12,France
+59.770844,10.262148,"Tesla Supercharger Lier North, Norway",150,SITE_TYPE_SUPERCHARGER,8,Norway
+47.50058121,6.81234321,"Tesla Supercharger Montbéliard, France",250,SITE_TYPE_SUPERCHARGER,16,France
+44.973333,7.730113,"Tesla Supercharger Moncalieri, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+52.650769,5.038917,"Tesla Supercharger Hoorn, Netherlands ",150,SITE_TYPE_SUPERCHARGER,12,Netherlands
+50.486021,4.797235,"Tesla Supercharger Namur, Belgium",250,SITE_TYPE_SUPERCHARGER,15,Belgium
+46.144299,5.281959,"Tesla Supercharger Bourg-en-Bresse, France",250,SITE_TYPE_SUPERCHARGER,6,France
+51.710912,8.713781,"Tesla Supercharger Paderborn, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.310734,7.934924,"Tesla Supercharger Oftringen, Switzerland",125,SITE_TYPE_SUPERCHARGER,14,Switzerland
+51.531452,-3.140042,"Tesla Supercharger Cardiff, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+56.931838,12.518811,"Tesla Supercharger Falkenberg, Sweden",150,SITE_TYPE_SUPERCHARGER,18,Sweden
+43.60245,3.9199,"Tesla Supercharger Montpellier, France",250,SITE_TYPE_SUPERCHARGER,16,France
+50.889864,11.871398,"Tesla Supercharger Hermsdorf, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+55.786395,9.667926,"Tesla Supercharger Hedensted, Denmark",150,SITE_TYPE_SUPERCHARGER,16,Denmark
+49.388964,1.059818,"Tesla Supercharger Rouen, France",250,SITE_TYPE_SUPERCHARGER,12,France
+51.477207,-2.706308,"Tesla Supercharger Gordano, UK",130,SITE_TYPE_SUPERCHARGER,8,UK
+50.381223,8.089445,"Tesla Supercharger Limburg an der Lahn, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+55.465674,8.444136,"Tesla Supercharger Esbjerg, Denmark",250,SITE_TYPE_SUPERCHARGER,12,Denmark
+53.617858,10.239421,"Tesla Supercharger Braak, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+56.178072,10.138728,"Tesla Supercharger Århus, Denmark - Service",125,SITE_TYPE_SUPERCHARGER,6,Denmark
+47.32476,0.713971,"Tesla Supercharger Chambray-Lès-Tours, France",250,SITE_TYPE_SUPERCHARGER,24,France
+47.199916,8.794421,"Tesla Supercharger Pfäffikon, Switzerland - Seedamm-Center",250,SITE_TYPE_SUPERCHARGER,15,Switzerland
+48.057341,4.959604,"Tesla Supercharger Aire de Châteauvillain, France - Val Marnay",150,SITE_TYPE_SUPERCHARGER,6,France
+49.414,0.266378,"Tesla Supercharger Honfleur, France",250,SITE_TYPE_SUPERCHARGER,12,France
+54.442048,-1.671239,"Tesla Supercharger Scotch Corner, UK",130,SITE_TYPE_SUPERCHARGER,8,UK
+51.286224,0.545783,"Tesla Supercharger Maidstone, UK",130,SITE_TYPE_SUPERCHARGER,6,UK
+50.897865,6.682388,"Tesla Supercharger Kerpen, Germany",250,SITE_TYPE_SUPERCHARGER,19,Germany
+48.218806,10.127389,"Tesla Supercharger Illertissen, Germany",250,SITE_TYPE_SUPERCHARGER,14,Germany
+47.50207906,3.98431294,"Tesla Supercharger Avallon, France",250,SITE_TYPE_SUPERCHARGER,20,France
+41.663959,0.605371,"Tesla Supercharger Lleida, Spain",150,SITE_TYPE_SUPERCHARGER,6,Spain
+54.453346,-2.605861,"Tesla Supercharger Penrith, UK - Tebay Southbound",150,SITE_TYPE_SUPERCHARGER,8,UK
+51.871747,0.193401,"Tesla Supercharger Birchanger Green, UK",130,SITE_TYPE_SUPERCHARGER,4,UK
+50.133641,8.561038,"Tesla Supercharger Eschborn, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+58.722096,11.34403,"Tesla Supercharger Tanum, Sweden",150,SITE_TYPE_SUPERCHARGER,24,Sweden
+43.647598,1.369754,"Tesla Supercharger Blagnac, France",250,SITE_TYPE_SUPERCHARGER,16,France
+46.368124,13.072864,"Tesla Supercharger Valli di Carnia, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+47.948869,1.86831,"Tesla Supercharger Orléans, France",150,SITE_TYPE_SUPERCHARGER,8,France
+52.962947,-2.196584,"Tesla Supercharger Trentham, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+53.104375,9.98157,"Tesla Supercharger Bispingen, Germany",150,SITE_TYPE_SUPERCHARGER,10,Germany
+47.720985,8.646664,"Tesla Supercharger Schaffhausen, Switzerland",125,SITE_TYPE_SUPERCHARGER,8,Switzerland
+48.999791,12.148416,"Tesla Supercharger Regensburg - Ostenviertel, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+49.648038,5.818803,"Tesla Supercharger Arlon, Belgium",250,SITE_TYPE_SUPERCHARGER,30,Belgium
+51.412775,0.13431,"Tesla Supercharger London, UK - Sidcup",250,SITE_TYPE_SUPERCHARGER,15,UK
+48.64562825,11.52065258,"Tesla Supercharger Reichertshofen, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+45.34834,9.282206,"Tesla Supercharger Melegnano, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+47.049393,2.344843,"Tesla Supercharger Bourges, France",150,SITE_TYPE_SUPERCHARGER,10,France
+50.928282,1.811838,"Tesla Supercharger Eurotunnel, France -  Flexiplus Lounge",125,SITE_TYPE_SUPERCHARGER,2,France
+53.369722,9.802193,"Tesla Supercharger Rade, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+41.086278,1.037806,"Tesla Supercharger Cambrils, Spain",150,SITE_TYPE_SUPERCHARGER,4,Spain
+48.653054,7.732155,"Tesla Supercharger Vendenheim, France",250,SITE_TYPE_SUPERCHARGER,16,France
+48.518278,11.562305,"Tesla Supercharger Pfaffenhofen, Germany",250,SITE_TYPE_SUPERCHARGER,24,Germany
+51.510052,-2.156305,"Tesla Supercharger Leigh Delamere, UK - Westbound",250,SITE_TYPE_SUPERCHARGER,16,UK
+49.725188,13.326051,"Tesla Supercharger Plzeň, Czech Republic",150,SITE_TYPE_SUPERCHARGER,6,Czech Republic
+44.989375,14.897686,"Tesla Supercharger Senj, Croatia",90,SITE_TYPE_SUPERCHARGER,4,Croatia
+40.90688731,9.5159936,"Tesla Supercharger Olbia, Italy",250,SITE_TYPE_SUPERCHARGER,4,Italy
+43.510637,5.456429,"Tesla Supercharger Aix-en-Provence, France",130,SITE_TYPE_SUPERCHARGER,4,France
+50.816508,5.725651,"Tesla Supercharger Maastricht, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+52.072834,-1.34179,"Tesla Supercharger Banbury, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+57.189774,-3.836206,"Tesla Supercharger Aviemore, UK",150,SITE_TYPE_SUPERCHARGER,4,UK
+48.584598,2.604114,"Tesla Supercharger Cesson, France",250,SITE_TYPE_SUPERCHARGER,12,France
+45.877092,6.0879,"Tesla Supercharger Annecy, France - Seynod",250,SITE_TYPE_SUPERCHARGER,16,France
+50.796377,6.780047,"Tesla Supercharger Erftstadt, Germany",250,SITE_TYPE_SUPERCHARGER,28,Germany
+52.644065,-2.054251,"Tesla Supercharger Hilton Park, UK -  Southbound",150,SITE_TYPE_SUPERCHARGER,12,UK
+50.552856,8.532806,"Tesla Supercharger Wetzlar, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+55.386511,10.426722,"Tesla Supercharger Odense, Denmark",250,SITE_TYPE_SUPERCHARGER,16,Denmark
+43.04618022,12.40782217,"Tesla Supercharger Perugia South, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+41.815887,12.400806,"Tesla Supercharger Roma, Italy - South West",250,SITE_TYPE_SUPERCHARGER,8,Italy
+41.544226,13.511958,"Tesla Supercharger Ceprano, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+51.577507,4.729773,"Tesla Supercharger Breda, Netherlands",150,SITE_TYPE_SUPERCHARGER,16,Netherlands
+47.835942,13.059135,"Tesla Supercharger Salzburg, Austria - Nord",250,SITE_TYPE_SUPERCHARGER,10,Austria
+50.409809,2.974534,"Tesla Supercharger Noyelles-Godault, France",250,SITE_TYPE_SUPERCHARGER,24,France
+45.039342,9.753848,"Tesla Supercharger Piacenza, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+47.534597,12.092972,"Tesla Supercharger Langkampfen, Austria",250,SITE_TYPE_SUPERCHARGER,27,Austria
+50.48272,7.750214,"Tesla Supercharger Mogendorf, Germany",150,SITE_TYPE_SUPERCHARGER,12,Germany
+51.470106,6.05724,"Tesla Supercharger Horst, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+44.036408,1.378367,"Tesla Supercharger Montauban, France",250,SITE_TYPE_SUPERCHARGER,16,France
+47.782002,7.388186,"Tesla Supercharger Mulhouse, France",150,SITE_TYPE_SUPERCHARGER,8,France
+47.451845,8.704485,"Tesla Supercharger Kemptthal, Switzerland",250,SITE_TYPE_SUPERCHARGER,12,Switzerland
+53.713158,-1.744952,"Tesla Supercharger Hartshead Moor, UK - Westbound",150,SITE_TYPE_SUPERCHARGER,6,UK
+48.754456,2.351036,"Tesla Supercharger Rungis, France",150,SITE_TYPE_SUPERCHARGER,6,France
+53.586759,10.097986,"Tesla Supercharger Hamburg - Service Center, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+52.644021,-2.058587,"Tesla Supercharger Hilton Park, UK - Northbound",130,SITE_TYPE_SUPERCHARGER,12,UK
+48.4305668,-4.46994802,"Tesla Supercharger Brest, France - Gouesnou",250,SITE_TYPE_SUPERCHARGER,16,France
+41.134294,1.1683,"Tesla Supercharger Tarragona, Spain",150,SITE_TYPE_SUPERCHARGER,2,Spain
+51.510919,-0.460473,"Tesla Supercharger London, UK - West Drayton",130,SITE_TYPE_SUPERCHARGER,5,UK
+58.157003,7.105605,"Tesla Supercharger Lyngdal Handelspark, Norway",250,SITE_TYPE_SUPERCHARGER,36,Norway
+42.372085,12.471703,"Tesla Supercharger Magliano Sabina, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+52.480891,13.355927,"Tesla Supercharger Berlin, Germany - EUREF-Campus",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.561444,7.356644,"Tesla Supercharger Hovden, Norway",150,SITE_TYPE_SUPERCHARGER,12,Norway
+53.417573,-2.639644,"Tesla Supercharger Burtonwood, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+48.393734,11.070536,"Tesla Supercharger Dasing, Germany - Bauernmarkt",250,SITE_TYPE_SUPERCHARGER,16,Germany
+41.313192,-2.002201,"Tesla Supercharger Ariza, Spain",150,SITE_TYPE_SUPERCHARGER,6,Spain
+45.152424,0.789938,"Tesla Supercharger Périgueux, France",250,SITE_TYPE_SUPERCHARGER,8,France
+45.954138,8.950789,"Tesla Supercharger Melide, Switzerland",125,SITE_TYPE_SUPERCHARGER,10,Switzerland
+43.436817,11.77957,"Tesla Supercharger Arezzo, Italy",250,SITE_TYPE_SUPERCHARGER,24,Italy
+51.495032,7.284958,"Tesla Supercharger Bochum, Germany - Ruhr Park",250,SITE_TYPE_SUPERCHARGER,16,Germany
+39.006495,-3.38313,"Tesla Supercharger Manzanares, Spain",150,SITE_TYPE_SUPERCHARGER,4,Spain
+56.657423,12.907257,"Tesla Supercharger Halmstad, Sweden",250,SITE_TYPE_SUPERCHARGER,28,Sweden
+51.370996,9.633307,"Tesla Supercharger Lutterberg, Germany",150,SITE_TYPE_SUPERCHARGER,16,Germany
+47.017422,4.837768,"Tesla Supercharger Beaune, France",150,SITE_TYPE_SUPERCHARGER,12,France
+48.999043,8.428747,"Tesla Supercharger Karlsruhe, Germany",250,SITE_TYPE_SUPERCHARGER,11,Germany
+44.04068,12.589221,"Tesla Supercharger Rimini, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+45.884158,13.344976,"Tesla Supercharger Palmanova, Italy",250,SITE_TYPE_SUPERCHARGER,16,Italy
+46.515263,8.67061,"Tesla Supercharger Quinto, Switzerland",125,SITE_TYPE_SUPERCHARGER,10,Switzerland
+42.31227892,-3.70417222,"Tesla Supercharger Burgos, Spain",150,SITE_TYPE_SUPERCHARGER,6,Spain
+50.88771,4.453051,"Tesla Supercharger Machelen, Belgium",70,SITE_TYPE_SUPERCHARGER,8,Belgium
+48.811357,11.479807,"Tesla Supercharger Kösching, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+49.252931,3.975959,"Tesla Supercharger Reims, France - Tinqueux",250,SITE_TYPE_SUPERCHARGER,16,France
+48.784078,2.220945,"Tesla Supercharger Vélizy 2, France",250,SITE_TYPE_SUPERCHARGER,16,France
+49.769609,10.470231,"Tesla Supercharger Geiselwind, Germany",250,SITE_TYPE_SUPERCHARGER,34,Germany
+49.1384,8.56233,"Tesla Supercharger Bruchsal, Germany",138,SITE_TYPE_SUPERCHARGER,14,Germany
+45.265676,5.876448,"Tesla Supercharger Grenoble, France",150,SITE_TYPE_SUPERCHARGER,8,France
+42.783861,-1.630794,"Tesla Supercharger Pamplona,  Spain",250,SITE_TYPE_SUPERCHARGER,8,Spain
+48.691108,6.127792,"Tesla Supercharger Laxou, France",250,SITE_TYPE_SUPERCHARGER,28,France
+48.959185,10.173699,"Tesla Supercharger Ellwangen, Germany - Hotel Montana",250,SITE_TYPE_SUPERCHARGER,8,Germany
+50.643921,10.684882,"Tesla Supercharger Zella-Mehlis, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+51.151101,4.43271,"Tesla Supercharger Edegem, Belgium",150,SITE_TYPE_SUPERCHARGER,18,Belgium
+56.783309,9.690891,"Tesla Supercharger Haverslev, Denmark",150,SITE_TYPE_SUPERCHARGER,16,Denmark
+51.535351,-3.577637,"Tesla Supercharger Sarn Park, UK",130,SITE_TYPE_SUPERCHARGER,8,UK
+48.785079,9.017713,"Tesla Supercharger Leonberg, Germany",150,SITE_TYPE_SUPERCHARGER,20,Germany
+51.067118,-1.299816,"Tesla Supercharger Winchester, UK ",250,SITE_TYPE_SUPERCHARGER,12,UK
+47.175529,7.598728,"Tesla Supercharger Kriegstetten, Switzerland",150,SITE_TYPE_SUPERCHARGER,12,Switzerland
+43.666466,7.127355,"Tesla Supercharger Cagnes-sur-Mer, France",125,SITE_TYPE_SUPERCHARGER,4,France
+46.912724,8.622726,"Tesla Supercharger Flüelen, Switzerland",150,SITE_TYPE_SUPERCHARGER,6,Switzerland
+49.640815,6.270681,"Tesla Supercharger Mënsbech, Luxembourg",130,SITE_TYPE_SUPERCHARGER,4,Luxembourg
+46.625,7.037428,"Tesla Supercharger Bulle, Switzerland",250,SITE_TYPE_SUPERCHARGER,8,Switzerland
+45.389513,8.129848,"Tesla Supercharger Cavaglià, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+44.79377597,-0.53318556,"Tesla Supercharger Bègles, France",250,SITE_TYPE_SUPERCHARGER,16,France
+40.93319791,14.35738213,"Tesla Supercharger Afragola, Italy - Napoli North",250,SITE_TYPE_SUPERCHARGER,8,Italy
+42.399179,14.163982,"Tesla Supercharger San Giovanni Teatino, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+44.918787,11.594051,"Tesla Supercharger Occhiobello, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+48.221159,14.406744,"Tesla Supercharger Asten, Austria",250,SITE_TYPE_SUPERCHARGER,12,Austria
+47.626586,7.599531,"Tesla Supercharger Eimeldingen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.003965,9.525809,"Tesla Supercharger Maienfeld, Switzerland",125,SITE_TYPE_SUPERCHARGER,14,Switzerland
+45.561386,9.055946,"Tesla Supercharger Arese, Italy",250,SITE_TYPE_SUPERCHARGER,20,Italy
+53.10912,-1.31227,"Tesla Supercharger Mansfield, UK - East Midlands Designer Outlet",250,SITE_TYPE_SUPERCHARGER,8,UK
+43.802874,13.015345,"Tesla Supercharger Fano, Italy",130,SITE_TYPE_SUPERCHARGER,6,Italy
+58.820786,9.073735,"Tesla Supercharger Brokelandsheia, Norway",250,SITE_TYPE_SUPERCHARGER,36,Norway
+51.852568,0.522422,"Tesla Supercharger Braintree, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+46.051873,14.452102,"Tesla Supercharger Ljubljana, Slovenia",125,SITE_TYPE_SUPERCHARGER,8,Slovenia
+48.184498,11.532516,"Tesla Supercharger München - OEZ, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+43.35562,-4.09492,"Tesla Supercharger Reocín, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+51.959482,6.021093,"Tesla Supercharger Duiven, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+52.98524,7.248106,"Tesla Supercharger Heede, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.40795,8.598191,"Tesla Supercharger Wallisellen, Glattzentrum, Switzerland",250,SITE_TYPE_SUPERCHARGER,20,Switzerland
+52.99296,-2.290314,"Tesla Supercharger Keele, UK - Northbound",130,SITE_TYPE_SUPERCHARGER,8,UK
+45.593132,5.898176,"Tesla Supercharger Chambéry, France",125,SITE_TYPE_SUPERCHARGER,4,France
+45.525434,5.974838,"Tesla Supercharger Aire du Granier, France",250,SITE_TYPE_SUPERCHARGER,12,France
+47.61187586,1.33932151,"Tesla Supercharger Blois, France",250,SITE_TYPE_SUPERCHARGER,16,France
+51.43855,-0.968785,"Tesla Supercharger Reading, UK - Katesgrove",250,SITE_TYPE_SUPERCHARGER,12,UK
+54.477799,9.544758,"Tesla Supercharger Busdorf, Germany",250,SITE_TYPE_SUPERCHARGER,28,Germany
+47.372431,10.886093,"Tesla Supercharger Biberwier, Austria",150,SITE_TYPE_SUPERCHARGER,6,Austria
+58.327607,13.132291,"Tesla Supercharger Jung, Sweden",150,SITE_TYPE_SUPERCHARGER,6,Sweden
+59.365814,13.145283,"Tesla Supercharger Grums, Sweden",150,SITE_TYPE_SUPERCHARGER,24,Sweden
+52.278996,9.35084,"Tesla Supercharger Lauenau, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+45.584722,12.287137,"Tesla Supercharger Mogliano Veneto, Italy",250,SITE_TYPE_SUPERCHARGER,16,Italy
+51.135188,-0.19124,"Tesla Supercharger London, UK - Gatwick",250,SITE_TYPE_SUPERCHARGER,8,UK
+51.899517,4.982968,"Tesla Supercharger Meerkerk, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+46.573233,-1.11793,"Tesla Supercharger Aire de la Vendée, France",250,SITE_TYPE_SUPERCHARGER,9,France
+51.249417,-0.559877,"Tesla Supercharger Guildford, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+43.980528,4.879874,"Tesla Supercharger Avignon, France - Le Pontet",250,SITE_TYPE_SUPERCHARGER,28,France
+46.496797,9.84272,"Tesla Supercharger St. Moritz, Switzerland",125,SITE_TYPE_SUPERCHARGER,4,Switzerland
+54.092966,13.085854,"Tesla Supercharger Süderholz, Germany",150,SITE_TYPE_SUPERCHARGER,4,Germany
+47.271211,8.439433,"Tesla Supercharger Affoltern, Switzerland ",250,SITE_TYPE_SUPERCHARGER,12,Switzerland
+51.88071,0.788574,"Tesla Supercharger Colchester, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+48.925026,1.996508,"Tesla Supercharger Orgeval, France",125,SITE_TYPE_SUPERCHARGER,4,France
+52.168184,0.109099,"Tesla Supercharger Trumpington, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+59.31478,14.147392,"Tesla Supercharger Kristinehamn, Sweden",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+51.750141,0.511223,"Tesla Supercharger Chelmsford, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+50.921483,4.032789,"Tesla Supercharger Aalst, Belgium",250,SITE_TYPE_SUPERCHARGER,12,Belgium
+43.511938,5.466433,"Tesla Supercharger Aix-en-Provence, France - Val de l'Arc",250,SITE_TYPE_SUPERCHARGER,12,France
+50.989354,5.7815065,"Tesla Supercharger Urmond, Netherlands",150,SITE_TYPE_SUPERCHARGER,20,Netherlands
+52.144022,5.416976,"Tesla Supercharger Leusden, Netherlands",250,SITE_TYPE_SUPERCHARGER,12,Netherlands
+49.924001,7.825672,"Tesla Supercharger Waldlaubersheim, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+45.952704,6.628651,"Tesla Supercharger Sallanches, France",250,SITE_TYPE_SUPERCHARGER,12,France
+50.33102,6.945609,"Tesla Supercharger Nürburgring, Germany",250,SITE_TYPE_SUPERCHARGER,4,Germany
+50.227558,-5.280032,"Tesla Supercharger Camborne, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+50.592323,5.848511,"Tesla Supercharger Verviers, Belgium",250,SITE_TYPE_SUPERCHARGER,12,Belgium
+48.281256,7.777663,"Tesla Supercharger Kappel-Grafenhausen, Germany",150,SITE_TYPE_SUPERCHARGER,10,Germany
+46.971073,8.459073,"Tesla Supercharger Beckenried, Switzerland",125,SITE_TYPE_SUPERCHARGER,6,Switzerland
+46.889368,-1.032994,"Tesla Supercharger Les Herbiers, France",250,SITE_TYPE_SUPERCHARGER,8,France
+58.827859,7.795555,"Tesla Supercharger Bygland, Norway",150,SITE_TYPE_SUPERCHARGER,8,Norway
+52.727405,5.764609,"Tesla Supercharger Emmeloord, Netherlands",150,SITE_TYPE_SUPERCHARGER,10,Netherlands
+47.04312,4.841182,"Tesla Supercharger Beaune Nord, France",250,SITE_TYPE_SUPERCHARGER,28,France
+39.542965,-0.451521,"Tesla Supercharger Valencia, Spain",250,SITE_TYPE_SUPERCHARGER,8,Spain
+49.593988,8.632471,"Tesla Supercharger Hemsbach, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.729669,-1.249257,"Tesla Supercharger Oxford, UK - Redbridge",250,SITE_TYPE_SUPERCHARGER,12,UK
+47.524877,7.680341,"Tesla Supercharger Pratteln, Switzerland",150,SITE_TYPE_SUPERCHARGER,18,Switzerland
+45.820338,4.760218,"Tesla Supercharger Dardilly, France",250,SITE_TYPE_SUPERCHARGER,16,France
+48.826752,2.118612,"Tesla Supercharger Parly 2, France",250,SITE_TYPE_SUPERCHARGER,12,France
+46.6018,13.883084,"Tesla Supercharger Villach-Ost, Austria",200,SITE_TYPE_SUPERCHARGER,6,Austria
+50.355556,9.753977,"Tesla Supercharger Motten, Germany",150,SITE_TYPE_SUPERCHARGER,16,Germany
+50.805634,3.27446,"Tesla Supercharger Kortrijk, Belgium",150,SITE_TYPE_SUPERCHARGER,12,Belgium
+47.354676,13.385812,"Tesla Supercharger Flachau, Austria",125,SITE_TYPE_SUPERCHARGER,18,Austria
+55.434016,13.839907,"Tesla Supercharger Ystad, Sweden",250,SITE_TYPE_SUPERCHARGER,16,Sweden
+53.879285,11.454002,"Tesla Supercharger Wismar, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.16725,-1.328024,"Tesla Supercharger Winchester, UK - Norton Park",130,SITE_TYPE_SUPERCHARGER,2,UK
+47.459205,12.385998,"Tesla Supercharger Kitzbühel, Austria",150,SITE_TYPE_SUPERCHARGER,3,Austria
+53.430272,-2.179346,"Tesla Supercharger Manchester, UK - South",250,SITE_TYPE_SUPERCHARGER,8,UK
+52.235476,5.230129,"Tesla Supercharger Eemnes, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+46.891749,7.542704,"Tesla Supercharger Rubigen, Switzerland",150,SITE_TYPE_SUPERCHARGER,16,Switzerland
+43.121199,5.85086,"Tesla Supercharger Toulon, France",150,SITE_TYPE_SUPERCHARGER,8,France
+45.65232671,9.61888431,"Tesla Supercharger Bergamo Dalmine, Italy",250,SITE_TYPE_SUPERCHARGER,20,Italy
+53.962295,-1.528573,"Tesla Supercharger Harrogate, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+51.17715,-1.756453,"Tesla Supercharger Amesbury, UK",250,SITE_TYPE_SUPERCHARGER,16,UK
+48.992001,4.245283,"Tesla Supercharger Chalons en Champagne, France - Matougues",125,SITE_TYPE_SUPERCHARGER,4,France
+50.181953,9.006662,"Tesla Supercharger Neuberg, Germany",130,SITE_TYPE_SUPERCHARGER,6,Germany
+51.48947,0.286622,"Tesla Supercharger Grays, UK ",250,SITE_TYPE_SUPERCHARGER,16,UK
+48.349419,2.607224,"Tesla Supercharger Fontainebleau, France - Ury",150,SITE_TYPE_SUPERCHARGER,10,France
+49.544121,11.02872,"Tesla Supercharger Erlangen, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+49.459902,7.82134,"Tesla Supercharger Kaiserslautern, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+48.691358,9.003707,"Tesla Supercharger Böblingen, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+55.489025,12.163113,"Tesla Supercharger Køge, Denmark",150,SITE_TYPE_SUPERCHARGER,26,Denmark
+43.493819,-1.452564,"Tesla Supercharger Bayonne, France",150,SITE_TYPE_SUPERCHARGER,8,France
+50.847768,-0.991083,"Tesla Supercharger Portsmouth, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+53.067403,12.533227,"Tesla Supercharger Herzsprung, Germany",250,SITE_TYPE_SUPERCHARGER,18,Germany
+50.645428,8.989921,"Tesla Supercharger Mücke, Germany",250,SITE_TYPE_SUPERCHARGER,10,Germany
+52.657674,8.169333,"Tesla Supercharger Lohne, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+52.620732,13.54162,"Tesla Supercharger Panketal, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+45.551203,10.787291,"Tesla Supercharger Affi, Italy",250,SITE_TYPE_SUPERCHARGER,24,Italy
+59.570131,7.992551,"Tesla Supercharger Åmot, Norway",150,SITE_TYPE_SUPERCHARGER,12,Norway
+50.497509,12.170172,"Tesla Supercharger Plauen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.761249,9.905515,"Tesla Supercharger Hokksund, Norway - Eiker",150,SITE_TYPE_SUPERCHARGER,20,Norway
+44.47037,8.900802,"Tesla Supercharger Genova North, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+51.441793,6.61181,"Tesla Supercharger Moers, Germany",150,SITE_TYPE_SUPERCHARGER,12,Germany
+52.936118,-1.134317,"Tesla Supercharger Nottingham, UK - Service Centre",250,SITE_TYPE_SUPERCHARGER,8,UK
+47.764129,12.90426,"Tesla Supercharger Piding, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+47.499063,-0.491233,"Tesla Supercharger Aire des Portes d'Angers, France",250,SITE_TYPE_SUPERCHARGER,12,France
+53.698599,-1.265539,"Tesla Supercharger Ferrybridge, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+59.480735,8.635637,"Tesla Supercharger Seljord, Norway",250,SITE_TYPE_SUPERCHARGER,12,Norway
+45.785937,3.141488,"Tesla Supercharger Clermont-Ferrand, France",250,SITE_TYPE_SUPERCHARGER,16,France
+48.706939,9.306462,"Tesla Supercharger Denkendorf, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+58.945698,11.193538,"Tesla Supercharger Strömstad, Sweden",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+39.672915,-0.266301,"Tesla Supercharger Sagunto, Spain",250,SITE_TYPE_SUPERCHARGER,8,Spain
+46.164535,9.677329,"Tesla Supercharger Sondrio, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+52.918329,-1.4718478,"Tesla Supercharger Derby, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+55.51131,9.764768,"Tesla Supercharger Middelfart, Denmark",150,SITE_TYPE_SUPERCHARGER,12,Denmark
+43.810258,11.17798,"Tesla Supercharger Firenze, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+49.902277,7.929573,"Tesla Supercharger Gensingen, Germany",250,SITE_TYPE_SUPERCHARGER,22,Germany
+51.720357,5.333276,"Tesla Supercharger 's-Hertogenbosch, Netherlands",150,SITE_TYPE_SUPERCHARGER,16,Netherlands
+43.423964,5.99017,"Tesla Supercharger Aire de Cambarette, France",150,SITE_TYPE_SUPERCHARGER,10,France
+51.268129,4.40238,"Tesla Supercharger Antwerp, Belgium",250,SITE_TYPE_SUPERCHARGER,14,Belgium
+49.896799,8.614137,"Tesla Supercharger Weiterstadt, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+46.13916,8.907291,"Tesla Supercharger Monte Ceneri, Switzerland",125,SITE_TYPE_SUPERCHARGER,6,Switzerland
+47.413133,8.616919,"Tesla Supercharger Dietlikon, Switzerland - Erlenweg",150,SITE_TYPE_SUPERCHARGER,8,Switzerland
+50.059827,8.345102,"Tesla Supercharger Wiesbaden, Germany",125,SITE_TYPE_SUPERCHARGER,4,Germany
+48.830877,2.678019,"Tesla Supercharger Marne-la-Vallée, France",150,SITE_TYPE_SUPERCHARGER,12,France
+48.765484,13.046655,"Tesla Supercharger Hengersberg, Germany",130,SITE_TYPE_SUPERCHARGER,8,Germany
+52.213321,8.814317,"Tesla Supercharger Bad Oeynhausen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+46.670356,0.362651,"Tesla Supercharger Poitiers, France",150,SITE_TYPE_SUPERCHARGER,8,France
+51.506602,-0.222125,"Tesla Supercharger London, UK - Westfield White City",150,SITE_TYPE_SUPERCHARGER,24,UK
+55.512586,9.462869,"Tesla Supercharger Kolding, Denmark",250,SITE_TYPE_SUPERCHARGER,20,Denmark
+48.956078,9.245435,"Tesla Supercharger Murr, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+50.562501,7.525532,"Tesla Supercharger Oberhonnefeld, Germany",250,SITE_TYPE_SUPERCHARGER,40,Germany
+52.213255,4.503421,"Tesla Supercharger Sassenheim, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+45.737211,7.372556,"Tesla Supercharger Aosta, Italy - A5 dir. Mont-Blanc",150,SITE_TYPE_SUPERCHARGER,6,Italy
+40.29037,-3.69629,"Tesla Supercharger Getafe, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+52.061035,5.205139,"Tesla Supercharger Bunnik, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+51.545559,-0.474257,"Tesla Supercharger Uxbridge, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+44.91666485,8.59963503,"Tesla Supercharger Alessandria, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+42.775341,2.908312,"Tesla Supercharger Rivesaltes, France",250,SITE_TYPE_SUPERCHARGER,20,France
+56.821427,-5.10372,"Tesla Supercharger Fort William, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+46.774647,5.522209,"Tesla Supercharger Aire du Jura, France",250,SITE_TYPE_SUPERCHARGER,12,France
+47.418125,8.396816,"Tesla Supercharger Dietikon, Switzerland",150,SITE_TYPE_SUPERCHARGER,24,Switzerland
+48.411054,10.44042,"Tesla Supercharger Jettingen, Germany",130,SITE_TYPE_SUPERCHARGER,8,Germany
+48.994716,12.150682,"Tesla Supercharger Regensburg-Ost, Germany",150,SITE_TYPE_SUPERCHARGER,10,Germany
+52.67744,-2.399171,"Tesla Supercharger Telford, UK",130,SITE_TYPE_SUPERCHARGER,8,UK
+53.489393,-1.486223,"Tesla Supercharger Barnsley, UK",130,SITE_TYPE_SUPERCHARGER,2,UK
+52.531375,6.157279,"Tesla Supercharger Zwolle, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+45.518668,6.482533,"Tesla Supercharger La Léchère-les-Bains, France",150,SITE_TYPE_SUPERCHARGER,8,France
+44.636985,-0.960215,"Tesla Supercharger Biganos, France",250,SITE_TYPE_SUPERCHARGER,12,France
+48.128966,7.368816,"Tesla Supercharger Colmar, France",250,SITE_TYPE_SUPERCHARGER,12,France
+51.31395,9.49343341,"Tesla Supercharger Kassel, Germany - GALERIA",250,SITE_TYPE_SUPERCHARGER,12,Germany
+48.293229,4.130685,"Tesla Supercharger Troyes, France - Saint-Parres-aux-Tertres",250,SITE_TYPE_SUPERCHARGER,26,France
+47.422725,14.759266,"Tesla Supercharger Kalwang, Austria",250,SITE_TYPE_SUPERCHARGER,16,Austria
+50.167321,1.755505,"Tesla Supercharger Aire de la Baie de Somme, France",150,SITE_TYPE_SUPERCHARGER,10,France
+54.88762,-1.557413,"Tesla Supercharger Washington, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+46.547767,0.295897,"Tesla Supercharger Poitiers Sud, France",250,SITE_TYPE_SUPERCHARGER,28,France
+46.129569,6.087824,"Tesla Supercharger Saint-Julien-en-Genevois, France",250,SITE_TYPE_SUPERCHARGER,20,France
+51.949095,13.787957,"Tesla Supercharger Bersteland, Germany",120,SITE_TYPE_SUPERCHARGER,6,Germany
+49.994026,9.070627,"Tesla Supercharger Kleinostheim, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+55.534483,9.716938,"Tesla Supercharger Fredericia, Denmark",250,SITE_TYPE_SUPERCHARGER,24,Denmark
+44.918953,4.878081,"Tesla Supercharger Valence, France",150,SITE_TYPE_SUPERCHARGER,8,France
+49.840015,8.143658,"Tesla Supercharger Wörrstadt, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+47.99147,5.51296,"Tesla Supercharger Val-de-Meuse, France",150,SITE_TYPE_SUPERCHARGER,16,France
+50.869897,4.501978,"Tesla Supercharger Zaventem, Belgium",250,SITE_TYPE_SUPERCHARGER,16,Belgium
+56.024947,14.116996,"Tesla Supercharger Kristianstad, Sweden",250,SITE_TYPE_SUPERCHARGER,14,Sweden
+51.401587,12.181375,"Tesla Supercharger Leipzig-Flughafen, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+46.556698,6.561557,"Tesla Supercharger Bussigny, Switzerland",130,SITE_TYPE_SUPERCHARGER,14,Switzerland
+39.400528,-0.491639,"Tesla Supercharger Torrent Northbound, Spain",150,SITE_TYPE_SUPERCHARGER,2,Spain
+49.6723,8.6022,"Tesla Supercharger Bensheim, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+49.365019,11.207273,"Tesla Supercharger Feucht, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+55.933931,-3.406966,"Tesla Supercharger Edinburgh, UK - Newbridge",250,SITE_TYPE_SUPERCHARGER,16,UK
+59.324292,10.954448,"Tesla Supercharger Solli, Norway",150,SITE_TYPE_SUPERCHARGER,10,Norway
+44.73558387,8.83971975,"Tesla Supercharger Serravalle Scrivia, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+45.08664,10.856201,"Tesla Supercharger Mantova, Italy",250,SITE_TYPE_SUPERCHARGER,16,Italy
+52.31319,10.635044,"Tesla Supercharger Lehre, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.947203,10.140477,"Tesla Supercharger Rhüden, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+48.227107,7.753737,"Tesla Supercharger Herbolzheim, Germany",150,SITE_TYPE_SUPERCHARGER,10,Germany
+46.111616,11.091649,"Tesla Supercharger Trento, Italy",150,SITE_TYPE_SUPERCHARGER,10,Italy
+52.502168,13.374185,"Tesla Supercharger Berlin, Germany - Gleisdreieck",250,SITE_TYPE_SUPERCHARGER,20,Germany
+50.935031,1.812951,"Tesla Supercharger Eurotunnel, France - Terminal",125,SITE_TYPE_SUPERCHARGER,8,France
+47.3948,10.887553,"Tesla Supercharger Lermoos, Austria",125,SITE_TYPE_SUPERCHARGER,10,Austria
+52.204703,6.016104,"Tesla Supercharger Apeldoorn Oost, Netherlands",250,SITE_TYPE_SUPERCHARGER,20,Netherlands
+47.929278,13.501932,"Tesla Supercharger St. Georgen, Austria",125,SITE_TYPE_SUPERCHARGER,8,Austria
+54.939946,9.378711,"Tesla Supercharger Kliplev, Denmark",250,SITE_TYPE_SUPERCHARGER,24,Denmark
+49.778588,10.068878,"Tesla Supercharger Dettelbach, Germany",150,SITE_TYPE_SUPERCHARGER,18,Germany
+48.534041,7.702054,"Tesla Supercharger Strasbourg, France",150,SITE_TYPE_SUPERCHARGER,8,France
+56.466428,-3.062962,"Tesla Supercharger Dundee, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+47.788035,-3.331263,"Tesla Supercharger Lorient, France - Caudan",150,SITE_TYPE_SUPERCHARGER,8,France
+49.912272,10.000822,"Tesla Supercharger Gramschatzer Wald, Germany",250,SITE_TYPE_SUPERCHARGER,14,Germany
+44.202799,-0.92682,"Tesla Supercharger Labouheyre, France",250,SITE_TYPE_SUPERCHARGER,8,France
+50.993345,5.242127,"Tesla Supercharger Heusden-Zolder, Belgium",150,SITE_TYPE_SUPERCHARGER,12,Belgium
+46.786382,13.522243,"Tesla Supercharger Spittal an der Drau, Austria",250,SITE_TYPE_SUPERCHARGER,12,Austria
+51.483859,-1.556867,"Tesla Supercharger Membury, UK - Eastbound",150,SITE_TYPE_SUPERCHARGER,6,UK
+41.998407,2.817277,"Tesla Supercharger Girona, Spain",150,SITE_TYPE_SUPERCHARGER,4,Spain
+43.956416,10.194539,"Tesla Supercharger Forte dei Marmi, Italy",250,SITE_TYPE_SUPERCHARGER,20,Italy
+45.750012,-0.661725,"Tesla Supercharger Saintes, France",150,SITE_TYPE_SUPERCHARGER,8,France
+59.018794,8.52385,"Tesla Supercharger Treungen, Norway",250,SITE_TYPE_SUPERCHARGER,8,Norway
+45.56085,5.949646,"Tesla Supercharger Chambéry, France - Barberaz",150,SITE_TYPE_SUPERCHARGER,4,France
+43.816563,4.345189,"Tesla Supercharger Nimes, France",150,SITE_TYPE_SUPERCHARGER,8,France
+42.358932,1.462817,"Tesla Supercharger La Seu d'Urgell, Spain",150,SITE_TYPE_SUPERCHARGER,10,Spain
+57.6516673,11.951251,"Tesla Supercharger Gothenburg South, Sweden",250,SITE_TYPE_SUPERCHARGER,28,Sweden
+43.864589,3.313277,"Tesla Supercharger Aire du Caylar, France",150,SITE_TYPE_SUPERCHARGER,8,France
+42.789258,11.115675,"Tesla Supercharger Grosseto, Italy",160,SITE_TYPE_SUPERCHARGER,8,Italy
+46.346542,4.848655,"Tesla Supercharger Macon, France",150,SITE_TYPE_SUPERCHARGER,20,France
+48.272529,12.55031,"Tesla Supercharger Mühldorf, Germany",125,SITE_TYPE_SUPERCHARGER,4,Germany
+58.971301,9.513025,"Tesla Supercharger Bamble, Norway",250,SITE_TYPE_SUPERCHARGER,20,Norway
+42.082112,13.060424,"Tesla Supercharger Carsoli Oricola, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+49.216414,6.170791,"Tesla Supercharger Metz, France",150,SITE_TYPE_SUPERCHARGER,12,France
+59.3878413,10.7512104,"Tesla Supercharger Rygge, Norway",150,SITE_TYPE_SUPERCHARGER,42,Norway
+44.226199,5.913554,"Tesla Supercharger Sisteron, France",250,SITE_TYPE_SUPERCHARGER,12,France
+41.498096,2.072692,"Tesla Supercharger Sant Cugat, Spain",150,SITE_TYPE_SUPERCHARGER,12,Spain
+49.863496,2.278154,"Tesla Supercharger Amiens, France",150,SITE_TYPE_SUPERCHARGER,10,France
+46.832233,6.859269,"Tesla Supercharger Lully, Switzerland",82,SITE_TYPE_SUPERCHARGER,10,Switzerland
+53.259741,7.455526,"Tesla Supercharger Leer, Germany - Ems Park",250,SITE_TYPE_SUPERCHARGER,16,Germany
+49.532259,12.13494,"Tesla Supercharger Wernberg-Köblitz, Germany",250,SITE_TYPE_SUPERCHARGER,10,Germany
+40.771952,14.746048,"Tesla Supercharger Mercato San Severino, Italy",150,SITE_TYPE_SUPERCHARGER,6,Italy
+56.430273,10.061784,"Tesla Supercharger Randers South, Denmark",250,SITE_TYPE_SUPERCHARGER,16,Denmark
+40.2175,-0.939584,"Tesla Supercharger La Puebla de Valverde, Spain",250,SITE_TYPE_SUPERCHARGER,12,Spain
+45.327128,4.805394,"Tesla Supercharger Salaise-sur-Sanne, France",250,SITE_TYPE_SUPERCHARGER,20,France
+53.613512,7.16686,"Tesla Supercharger Norden, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+48.306514,11.634577,"Tesla Supercharger Eching, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.858314,-4.311623,"Tesla Supercharger Carmarthen, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+49.969785,6.861763,"Tesla Supercharger Wittlich, Germany",150,SITE_TYPE_SUPERCHARGER,10,Germany
+51.4535,0.246722,"Tesla Supercharger Dartford, UK - Tesla Service Centre",250,SITE_TYPE_SUPERCHARGER,12,UK
+49.989898,14.490692,"Tesla Supercharger Vestec, Czech Republic",125,SITE_TYPE_SUPERCHARGER,8,Czech Republic
+50.81373,7.107211,"Tesla Supercharger Troisdorf, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+59.766259,10.257838,"Tesla Supercharger Lier South, Norway",150,SITE_TYPE_SUPERCHARGER,8,Norway
+46.152051,8.937311,"Tesla Supercharger Cadenazzo, Switzerland",250,SITE_TYPE_SUPERCHARGER,4,Switzerland
+51.296116,-0.857413,"Tesla Supercharger Fleet, UK - Northbound",150,SITE_TYPE_SUPERCHARGER,8,UK
+44.1780816,0.6299066,"Tesla Supercharger Agen, France",250,SITE_TYPE_SUPERCHARGER,20,France
+45.0587584,7.6125538,"Tesla Supercharger Torino Grugliasco, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+48.039397,13.991102,"Tesla Supercharger Eberstalzell, Austria",250,SITE_TYPE_SUPERCHARGER,21,Austria
+53.943895,13.396918,"Tesla Supercharger Gützkow, Germany",130,SITE_TYPE_SUPERCHARGER,10,Germany
+49.934838,9.353749,"Tesla Supercharger Weibersbrunn, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+51.052489,0.454862,"Tesla Supercharger Flimwell, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+48.146522,11.790601,"Tesla Supercharger Vaterstetten, Germany",250,SITE_TYPE_SUPERCHARGER,18,Germany
+45.147204,8.991146,"Tesla Supercharger Dorno EST, Italy",150,SITE_TYPE_SUPERCHARGER,6,Italy
+52.170715,11.484837,"Tesla Supercharger Irxleben, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.19186,6.93621,"Tesla Supercharger Hilden, Germany",250,SITE_TYPE_SUPERCHARGER,40,Germany
+46.49750668,3.36277836,"Tesla Supercharger Aire du Bourbonnais, France",250,SITE_TYPE_SUPERCHARGER,12,France
+55.507943,-3.695081,"Tesla Supercharger Abington, UK",130,SITE_TYPE_SUPERCHARGER,6,UK
+51.5047,-0.016314,"Tesla Supercharger London, UK - Canary Wharf",250,SITE_TYPE_SUPERCHARGER,12,UK
+51.570195,7.675267,"Tesla Supercharger Kamen, Germany",150,SITE_TYPE_SUPERCHARGER,12,Germany
+52.21917,-1.501274,"Tesla Supercharger Warwick, UK - Southbound",150,SITE_TYPE_SUPERCHARGER,8,UK
+51.076382,-0.8317,"Tesla Supercharger Liphook, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+58.677207,13.814598,"Tesla Supercharger Mariestad, Sweden",250,SITE_TYPE_SUPERCHARGER,16,Sweden
+48.407702,10.599293,"Tesla Supercharger Zusmarshausen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+45.76911003,9.05688133,"Tesla Supercharger Grandate, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+49.527996,8.565773,"Tesla Supercharger Viernheim, Germany - Rhein-Neckar-Zentrum",250,SITE_TYPE_SUPERCHARGER,18,Germany
+48.041833,0.175342,"Tesla Supercharger Le Mans, France",150,SITE_TYPE_SUPERCHARGER,8,France
+50.511742,14.052647,"Tesla Supercharger Lovosice, Czech Republic",250,SITE_TYPE_SUPERCHARGER,8,Czech Republic
+58.393215,11.758098,"Tesla Supercharger Hogstorp, Sweden",250,SITE_TYPE_SUPERCHARGER,15,Sweden
+39.633022,2.733284,"Tesla Supercharger Mallorca, Spain",150,SITE_TYPE_SUPERCHARGER,2,Spain
+59.56683,9.218931,"Tesla Supercharger Notodden, Norway",250,SITE_TYPE_SUPERCHARGER,12,Norway
+50.643682,-4.284655,"Tesla Supercharger Lifton, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
+52.202366,-0.291631,"Tesla Supercharger Wyboston, UK",250,SITE_TYPE_SUPERCHARGER,10,UK
+46.496179,5.310394,"Tesla Supercharger Aire du Poulet de Bresse, France",150,SITE_TYPE_SUPERCHARGER,10,France
+53.081161,-0.806521,"Tesla Supercharger Newark, UK",250,SITE_TYPE_SUPERCHARGER,10,UK
+44.41964777,7.8499758,"Tesla Supercharger Mondovì, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+47.234539,5.901153,"Tesla Supercharger Besançon, France",150,SITE_TYPE_SUPERCHARGER,8,France
+46.435386,12.222794,"Tesla Supercharger Borca di Cadore, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+59.297674,11.062814,"Tesla Supercharger Grålum, Norway",250,SITE_TYPE_SUPERCHARGER,40,Norway
+59.509437,11.822381,"Tesla Supercharger Töcksfors, Sweden",150,SITE_TYPE_SUPERCHARGER,20,Sweden
+45.737298,7.372293,"Tesla Supercharger Aosta, Italy - A5 dir. Torino",150,SITE_TYPE_SUPERCHARGER,4,Italy
+50.951744,5.353198,"Tesla Supercharger Hasselt, Belgium",250,SITE_TYPE_SUPERCHARGER,12,Belgium
+43.332257,-0.358762,"Tesla Supercharger Pau, France",150,SITE_TYPE_SUPERCHARGER,8,France
+44.11754334,9.94582292,"Tesla Supercharger Sarzana, Italy - La Spezia",250,SITE_TYPE_SUPERCHARGER,12,Italy
+52.363227,-1.945595,"Tesla Supercharger Hopwood Park, UK",130,SITE_TYPE_SUPERCHARGER,16,UK
+58.236758,8.298786,"Tesla Supercharger Lillesand, Norway",150,SITE_TYPE_SUPERCHARGER,24,Norway
+49.858991,3.253555,"Tesla Supercharger Saint-Quentin, France",250,SITE_TYPE_SUPERCHARGER,20,France
+50.733955,9.241483,"Tesla Supercharger Alsfeld, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+43.23224,13.74985,"Tesla Supercharger Porto Sant'Elpidio, Italy",250,SITE_TYPE_SUPERCHARGER,4,Italy
+59.206519,9.609239,"Tesla Supercharger Skien, Norway",250,SITE_TYPE_SUPERCHARGER,9,Norway
+49.20448709,9.48877494,"Tesla Supercharger Öhringen, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+50.74185,3.144986,"Tesla Supercharger Neuville-en-Ferrain, France",250,SITE_TYPE_SUPERCHARGER,20,France
+48.990144,1.671559,"Tesla Supercharger Buchelay, France",150,SITE_TYPE_SUPERCHARGER,8,France
+53.460761,9.939778,"Tesla Supercharger Hamburg, Germany",150,SITE_TYPE_SUPERCHARGER,4,Germany
+52.022778,4.684873,"Tesla Supercharger Gouda, Netherlands",150,SITE_TYPE_SUPERCHARGER,16,Netherlands
+48.44581525,1.53906581,"Tesla Supercharger Chartres, France",250,SITE_TYPE_SUPERCHARGER,20,France
+48.788729,12.897424,"Tesla Supercharger Plattling (Globus), Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+41.515993,-4.943107,"Tesla Supercharger Tordesillas, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+45.737069,7.372331,"Tesla Supercharger Aosta, Italy - off highway",150,SITE_TYPE_SUPERCHARGER,6,Italy
+53.732774,-1.585622,"Tesla Supercharger Leeds, UK",130,SITE_TYPE_SUPERCHARGER,2,UK
+50.115255,7.598117,"Tesla Supercharger Pfalzfeld, Germany",150,SITE_TYPE_SUPERCHARGER,16,Germany
+52.73526,0.41388,"Tesla Supercharger King's Lynn, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+44.42086357,7.55126133,"Tesla Supercharger Cuneo, Italy",100,SITE_TYPE_SUPERCHARGER,2,Italy
+46.835747,0.541891,"Tesla Supercharger Chatellerault, France",250,SITE_TYPE_SUPERCHARGER,16,France
+53.339515,-2.569358,"Tesla Supercharger Warrington, UK",130,SITE_TYPE_SUPERCHARGER,2,UK
+49.257984,10.501828,"Tesla Supercharger Herrieden, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+50.708041,4.598293,"Tesla Supercharger Wavre, Belgium",250,SITE_TYPE_SUPERCHARGER,24,Belgium
+52.47139,-1.874152,"Tesla Supercharger Birmingham, UK - St Andrews",250,SITE_TYPE_SUPERCHARGER,16,UK
+47.131132,10.271463,"Tesla Supercharger St. Anton, Austria",125,SITE_TYPE_SUPERCHARGER,10,Austria
+55.766399,12.990671,"Tesla Supercharger Löddeköpinge, Sweden",150,SITE_TYPE_SUPERCHARGER,14,Sweden
+56.444825,13.603916,"Tesla Supercharger Markaryd, Sweden",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+46.966052,9.55264,"Tesla Supercharger Landquart, Switzerland",250,SITE_TYPE_SUPERCHARGER,20,Switzerland
+42.033344,0.104199,"Tesla Supercharger Barbastro, Spain",250,SITE_TYPE_SUPERCHARGER,4,Spain
+57.168101,12.275345,"Tesla Supercharger Varberg, Sweden",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+43.727823,7.186348,"Tesla Supercharger Nice, France",250,SITE_TYPE_SUPERCHARGER,16,France
+44.686658,10.851307,"Tesla Supercharger Campogalliano, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+51.481232,-1.556154,"Tesla Supercharger Membury, UK - Westbound",150,SITE_TYPE_SUPERCHARGER,8,UK
+53.105883,6.129539,"Tesla Supercharger Drachten, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+53.23214,-3.142146,"Tesla Supercharger Flint Mountain, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+45.51068385,9.6361734,"Tesla Supercharger Adda Sud, Italy",250,SITE_TYPE_SUPERCHARGER,4,Italy
+49.211936,9.077322,"Tesla Supercharger Bad Rappenau, Germany",130,SITE_TYPE_SUPERCHARGER,8,Germany
+49.982399,10.555616,"Tesla Supercharger Knetzgau, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+52.287203,6.773114,"Tesla Supercharger Hengelo, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+59.490326,10.294542,"Tesla Supercharger Holmestrand, Norway",150,SITE_TYPE_SUPERCHARGER,16,Norway
+43.769334,1.361378,"Tesla Supercharger Toulouse, France -  Castelnau-d'Estrétefonds",150,SITE_TYPE_SUPERCHARGER,8,France
+47.326987,7.805338,"Tesla Supercharger Egerkingen, Switzerland",125,SITE_TYPE_SUPERCHARGER,10,Switzerland
+56.433685,10.055412,"Tesla Supercharger Randers, Denmark",130,SITE_TYPE_SUPERCHARGER,14,Denmark
+56.501482,12.957552,"Tesla Supercharger Mellbystrand, Sweden",150,SITE_TYPE_SUPERCHARGER,20,Sweden
+55.565096,-1.79184,"Tesla Supercharger Adderstone, UK",250,SITE_TYPE_SUPERCHARGER,6,UK
+50.715586,-3.464911,"Tesla Supercharger Exeter, UK",250,SITE_TYPE_SUPERCHARGER,16,UK
+59.617763,11.003497,"Tesla Supercharger Jaren, Spydeberg, Norway",150,SITE_TYPE_SUPERCHARGER,20,Norway
+42.007749,-5.663257,"Tesla Supercharger Benavente, Spain",250,SITE_TYPE_SUPERCHARGER,12,Spain
+48.05298386,0.16638841,"Tesla Supercharger Le Mans, France - Saint-Saturnin",250,SITE_TYPE_SUPERCHARGER,20,France
+50.671261,5.543178,"Tesla Supercharger Liege, Belgium",250,SITE_TYPE_SUPERCHARGER,16,Belgium
+57.455813,10.04226,"Tesla Supercharger Hjørring, Denmark",125,SITE_TYPE_SUPERCHARGER,12,Denmark
+52.266766,12.922528,"Tesla Supercharger Beelitz, Germany",150,SITE_TYPE_SUPERCHARGER,14,Germany
+44.67634,4.795648,"Tesla Supercharger Montélimar, France",250,SITE_TYPE_SUPERCHARGER,28,France
+45.50845,11.626019,"Tesla Supercharger Torri di Quartesolo, Italy",250,SITE_TYPE_SUPERCHARGER,20,Italy
+58.35169,11.81156,"Tesla Supercharger Uddevalla, Sweden",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+58.631861,6.077764,"Tesla Supercharger Vikeså, Norway",150,SITE_TYPE_SUPERCHARGER,12,Norway
+48.64136,8.037807,"Tesla Supercharger Achern, Germany",150,SITE_TYPE_SUPERCHARGER,6,Germany
+51.282505,7.256382,"Tesla Supercharger Wuppertal, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+51.16987,3.19676,"Tesla Supercharger Brugge, Belgium",250,SITE_TYPE_SUPERCHARGER,14,Belgium
+47.406948,0.742797,"Tesla Supercharger Tours, France",150,SITE_TYPE_SUPERCHARGER,8,France
+45.69848,4.977541,"Tesla Supercharger Aire de Manissieux, France",150,SITE_TYPE_SUPERCHARGER,6,France
+42.183168,11.787806,"Tesla Supercharger Tarquinia, Italy",150,SITE_TYPE_SUPERCHARGER,10,Italy
+59.421206,5.4435,"Tesla Supercharger Aksdal, Norway",250,SITE_TYPE_SUPERCHARGER,18,Norway
+40.443856,-3.691665,"Tesla Supercharger Madrid, Spain - Nuevos Ministerios",150,SITE_TYPE_SUPERCHARGER,6,Spain
+48.784548,9.01927,"Tesla Supercharger Leonberg, Germany - Glemseck",250,SITE_TYPE_SUPERCHARGER,20,Germany
+44.243081,12.081431,"Tesla Supercharger Forli, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+55.38791,11.361842,"Tesla Supercharger Slagelse, Denmark",150,SITE_TYPE_SUPERCHARGER,10,Denmark
+41.623235,-3.687739,"Tesla Supercharger Aranda de Duero, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+52.167178,4.989068,"Tesla Supercharger Breukelen, Netherlands",150,SITE_TYPE_SUPERCHARGER,28,Netherlands
+52.185729,-0.89127,"Tesla Supercharger Northampton, UK - Grange Park ",150,SITE_TYPE_SUPERCHARGER,6,UK
+48.82159029,9.2966527,"Tesla Supercharger Waiblingen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+52.409547,-1.250857,"Tesla Supercharger Rugby, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+51.087187,9.48516,"Tesla Supercharger Malsfeld, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+51.52681,-0.283526,"Tesla Supercharger London, UK - Park Royal",250,SITE_TYPE_SUPERCHARGER,8,UK
+39.538678,-2.254568,"Tesla Supercharger Atalaya del Cañavate, Spain",150,SITE_TYPE_SUPERCHARGER,10,Spain
+51.480275,3.636485,"Tesla Supercharger Middelburg, Netherlands",250,SITE_TYPE_SUPERCHARGER,10,Netherlands
+59.808914,10.299461,"Tesla Supercharger Liertoppen, Norway",250,SITE_TYPE_SUPERCHARGER,40,Norway
+45.69444,0.178841,"Tesla Supercharger Angoulême, France",250,SITE_TYPE_SUPERCHARGER,8,France
+47.48848,9.739919,"Tesla Supercharger Bregenz, Austria",138,SITE_TYPE_SUPERCHARGER,20,Austria
+53.028356,8.808618,"Tesla Supercharger Brinkum, Germany",150,SITE_TYPE_SUPERCHARGER,14,Germany
+55.835905,-3.984377,"Tesla Supercharger Eurocentral, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+52.423275,9.835138,"Tesla Supercharger Hannover, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+49.445052,10.247026,"Tesla Supercharger Endsee, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+43.116581,0.766975,"Tesla Supercharger Saint-Gaudens, France",250,SITE_TYPE_SUPERCHARGER,8,France
+50.834819,9.57451,"Tesla Supercharger Kirchheim, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+55.64006,11.830555,"Tesla Supercharger Kirke Såby, Denmark",250,SITE_TYPE_SUPERCHARGER,16,Denmark
+51.502436,-0.0017265,"Tesla Supercharger London, UK – North Greenwich",150,SITE_TYPE_SUPERCHARGER,12,UK – North Greenwich
+51.478172,-0.515604,"Tesla Supercharger Heathrow, UK - Terminal 5",250,SITE_TYPE_SUPERCHARGER,24,UK
+50.686084,-3.450068,"Tesla Supercharger Exeter, UK - Darts Farm",250,SITE_TYPE_SUPERCHARGER,12,UK
+52.048276,4.349078,"Tesla Supercharger Rijswijk, Netherlands",250,SITE_TYPE_SUPERCHARGER,20,Netherlands
+44.574119,10.981157,"Tesla Supercharger Modena, Italy ",120,SITE_TYPE_SUPERCHARGER,12,Italy
+53.784556,-1.532498,"Tesla Supercharger Leeds, UK - Whitehouse Street",250,SITE_TYPE_SUPERCHARGER,8,UK
+59.915991,10.741252,"Tesla Supercharger Oslo, Norway - Central- Sentrum P-hus",250,SITE_TYPE_SUPERCHARGER,18,Norway
+52.335931,5.643634,"Tesla Supercharger Harderwijk, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+45.867721,1.27121,"Tesla Supercharger Limoges, France",150,SITE_TYPE_SUPERCHARGER,10,France
+48.147992,11.464678,"Tesla Supercharger München, Germany - Pasing Arcaden",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.381482,13.467294,"Tesla Supercharger Karlstad, Sweden",150,SITE_TYPE_SUPERCHARGER,6,Sweden
+47.814441,12.367768,"Tesla Supercharger Bernau am Chiemsee, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+51.940726,6.081793,"Tesla Supercharger Zevenaar, Netherlands",150,SITE_TYPE_SUPERCHARGER,8,Netherlands
+57.7727,14.199826,"Tesla Supercharger Jönköping, Sweden - Kompanigatan",250,SITE_TYPE_SUPERCHARGER,20,Sweden
+51.839079,5.09062,"Tesla Supercharger Vuren, Netherlands",150,SITE_TYPE_SUPERCHARGER,12,Netherlands
+51.406921,5.479291,"Tesla Supercharger Eindhoven, Netherlands",150,SITE_TYPE_SUPERCHARGER,24,Netherlands
+48.568171,-1.543283,"Tesla Supercharger Mont-Saint-Michel, France",150,SITE_TYPE_SUPERCHARGER,8,France
+45.698042,4.975513,"Tesla Supercharger Aire de Saint-Priest, France",150,SITE_TYPE_SUPERCHARGER,6,France
+57.110318,-2.092522,"Tesla Supercharger Aberdeen, UK - Service Centre",250,SITE_TYPE_SUPERCHARGER,8,UK
+50.917924,6.83319,"Tesla Supercharger Frechen, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+43.603659,7.011155,"Tesla Supercharger Mougins, France",130,SITE_TYPE_SUPERCHARGER,4,France
+52.174076,11.494478,"Tesla Supercharger Hohenwarsleben, Germany",120,SITE_TYPE_SUPERCHARGER,6,Germany
+47.282708,-1.549982,"Tesla Supercharger Nantes, France - La Chapelle-sur-Erdre",150,SITE_TYPE_SUPERCHARGER,8,France
+49.208678,2.606682,"Tesla Supercharger Senlis, France",150,SITE_TYPE_SUPERCHARGER,16,France
+44.88252,-0.563612,"Tesla Supercharger Bordeaux Lac, France",250,SITE_TYPE_SUPERCHARGER,16,France
+49.736834,4.744095,"Tesla Supercharger Charleville-Mézières, France",150,SITE_TYPE_SUPERCHARGER,8,France
+51.867901,4.557753,"Tesla Supercharger Ridderkerk, Netherlands",250,SITE_TYPE_SUPERCHARGER,24,Netherlands
+52.359241,7.264215,"Tesla Supercharger Emsbüren, Germany",250,SITE_TYPE_SUPERCHARGER,24,Germany
+48.057681,4.96061,"Tesla Supercharger Aire de Châteauvillain, France - Orges",150,SITE_TYPE_SUPERCHARGER,6,France
+52.160832,4.54932,"Tesla Supercharger Leiderdorp, Netherlands",150,SITE_TYPE_SUPERCHARGER,24,Netherlands
+50.816873,8.08576,"Tesla Supercharger Wilnsdorf, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+41.969639,12.540398,"Tesla Supercharger Roma, Italy - North",250,SITE_TYPE_SUPERCHARGER,8,Italy
+51.226308,-0.723457,"Tesla Supercharger Tongham, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+43.413832,6.451177,"Tesla Supercharger Aire de Vidauban Sud, France",150,SITE_TYPE_SUPERCHARGER,10,France
+49.273751,8.69533,"Tesla Supercharger Rauenberg, Germany",150,SITE_TYPE_SUPERCHARGER,12,Germany
+52.62753,1.38372,"Tesla Supercharger Norwich, UK - East",250,SITE_TYPE_SUPERCHARGER,8,UK
+51.796249,5.254964,"Tesla Supercharger Zaltbommel, Netherlands",150,SITE_TYPE_SUPERCHARGER,16,Netherlands
+51.526687,-2.599803,"Tesla Supercharger Bristol, UK - Cribbs Causeway",250,SITE_TYPE_SUPERCHARGER,14,UK
+46.403722,14.1304635,"Tesla Supercharger Žirovnica, Slovenia",250,SITE_TYPE_SUPERCHARGER,8,Slovenia
+52.308911,13.444626,"Tesla Supercharger Blankenfelde-Mahlow, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+51.69554,7.967128,"Tesla Supercharger Lippetal, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+51.420596,-0.988024,"Tesla Supercharger Reading, UK",130,SITE_TYPE_SUPERCHARGER,4,UK
+53.823223,10.50362,"Tesla Supercharger Reinfeld, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.836224,9.579221,"Tesla Supercharger Lampeland, Norway",150,SITE_TYPE_SUPERCHARGER,12,Norway
+45.974771,8.927985,"Tesla Supercharger Lugano, Switzerland - Sud",250,SITE_TYPE_SUPERCHARGER,12,Switzerland
+52.594675,-1.180623,"Tesla Supercharger Leicester, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+41.62576,-1.009628,"Tesla Supercharger Zaragoza, Spain",150,SITE_TYPE_SUPERCHARGER,10,Spain
+46.7962465,4.83510558,"Tesla Supercharger Chalon-sur-Saône, France",250,SITE_TYPE_SUPERCHARGER,28,France
+51.45047,11.304389,"Tesla Supercharger Sangerhausen, Germany",150,SITE_TYPE_SUPERCHARGER,6,Germany
+54.899885,11.89693,"Tesla Supercharger Nørre Alslev, Denmark",125,SITE_TYPE_SUPERCHARGER,8,Denmark
+46.310323,7.74971,"Tesla Supercharger Steg-Hohtenn, Switzerland",125,SITE_TYPE_SUPERCHARGER,8,Switzerland
+47.27325,11.475357,"Tesla Supercharger Hall in Tirol, Austria",250,SITE_TYPE_SUPERCHARGER,12,Austria
+52.99408,-2.290761,"Tesla Supercharger Keele, UK - Southbound",130,SITE_TYPE_SUPERCHARGER,4,UK
+59.950387,10.737762,"Tesla Supercharger Oslo North - Ullevaal, Norway",250,SITE_TYPE_SUPERCHARGER,20,Norway
+45.532187,10.165037,"Tesla Supercharger Brescia, Italy",250,SITE_TYPE_SUPERCHARGER,16,Italy
+53.711971,-1.746966,"Tesla Supercharger Hartshead Moor, UK - Eastbound",150,SITE_TYPE_SUPERCHARGER,6,UK
+52.238215,8.162957,"Tesla Supercharger Bissendorf, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+54.070027,9.941533,"Tesla Supercharger Neumünster, Germany - Freesen Center",250,SITE_TYPE_SUPERCHARGER,20,Germany
+51.30274,0.16072,"Tesla Supercharger Sevenoaks, UK",250,SITE_TYPE_SUPERCHARGER,8,UK
+52.233401,6.210263,"Tesla Supercharger Deventer, Netherlands",250,SITE_TYPE_SUPERCHARGER,20,Netherlands
+48.456812,10.030017,"Tesla Supercharger Ulm, Germany",250,SITE_TYPE_SUPERCHARGER,38,Germany
+51.54318356,5.1119267,"Tesla Supercharger Tilburg, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+48.510794,11.581893,"Tesla Supercharger Schweitenkirchen, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+47.726948,13.060705,"Tesla Supercharger Salzburg, Austria",125,SITE_TYPE_SUPERCHARGER,12,Austria
+47.24578994,2.0690831,"Tesla Supercharger Vierzon, France",250,SITE_TYPE_SUPERCHARGER,28,France
+45.587468,4.787528,"Tesla Supercharger Vienne, France - Chasse sur Rhone",150,SITE_TYPE_SUPERCHARGER,8,France
+44.48393959,11.26845624,"Tesla Supercharger Bologna, Italy - Casalecchio di Reno",250,SITE_TYPE_SUPERCHARGER,16,Italy
+51.3565,-0.1169117,"Tesla Supercharger London, UK - Croydon",250,SITE_TYPE_SUPERCHARGER,8,UK
+52.9929,6.52447,"Tesla Supercharger Assen, Netherlands",250,SITE_TYPE_SUPERCHARGER,20,Netherlands
+57.481723,-4.225422,"Tesla Supercharger Inverness, UK",150,SITE_TYPE_SUPERCHARGER,6,UK
+48.282587,12.55474,"Tesla Supercharger Erharting, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.826442,11.89837,"Tesla Supercharger Irschenberg, Germany",250,SITE_TYPE_SUPERCHARGER,9,Germany
+48.042495,10.620099,"Tesla Supercharger Türkheim, Germany",250,SITE_TYPE_SUPERCHARGER,8,Germany
+52.084312,-0.748467,"Tesla Supercharger Newport Pagnell, UK - Southbound",150,SITE_TYPE_SUPERCHARGER,12,UK
+44.870977,3.252918,"Tesla Supercharger Albaret-Sainte-Marie, France - Aire de La Garde",150,SITE_TYPE_SUPERCHARGER,8,France
+53.479787,10.025082,"Tesla Supercharger Hamburg, Germany - Stillhorn",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.2817204,5.65095,"Tesla Supercharger Weert, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+51.522884,-2.609229,"Tesla Supercharger Bristol, UK - Lysander Road",150,SITE_TYPE_SUPERCHARGER,6,UK
+49.120781,4.242618,"Tesla Supercharger Aire de Reims, France - Champagne-Sud",150,SITE_TYPE_SUPERCHARGER,6,France
+43.167686,2.986016,"Tesla Supercharger Narbonne, France",150,SITE_TYPE_SUPERCHARGER,12,France
+53.057533,9.165355,"Tesla Supercharger Posthausen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+53.466863,-2.353975,"Tesla Supercharger Manchester, UK - Trafford Centre",250,SITE_TYPE_SUPERCHARGER,18,UK
+44.26542613,8.42518696,"Tesla Supercharger Vado Ligure, Italy",250,SITE_TYPE_SUPERCHARGER,12,Italy
+44.54244,-0.253972,"Tesla Supercharger Langon, France",150,SITE_TYPE_SUPERCHARGER,10,France
+51.924806,4.372265,"Tesla Supercharger Schiedam, Netherlands",250,SITE_TYPE_SUPERCHARGER,16,Netherlands
+52.177652,5.912803,"Tesla Supercharger Apeldoorn, Netherlands ",150,SITE_TYPE_SUPERCHARGER,12,Netherlands
+44.82105248,10.3365449,"Tesla Supercharger Parma, Italy - Parma North",250,SITE_TYPE_SUPERCHARGER,20,Italy
+51.656236,-2.434815,"Tesla Supercharger Michaelwood, UK - Northbound",130,SITE_TYPE_SUPERCHARGER,8,UK
+45.753446,-0.652871,"Tesla Supercharger Saintes, France - Saintes Nord",250,SITE_TYPE_SUPERCHARGER,20,France
+51.096029,1.120985,"Tesla Supercharger Folkestone, UK – France Bound Only",130,SITE_TYPE_SUPERCHARGER,8,UK – France Bound Only
+53.234947,13.986081,"Tesla Supercharger Uckerfelde, Germany",150,SITE_TYPE_SUPERCHARGER,4,Germany
+52.95618,-1.145994,"Tesla Supercharger Nottingham, UK - Victoria Centre",250,SITE_TYPE_SUPERCHARGER,12,UK
+57.858276,11.997905,"Tesla Supercharger Kungälv, Sweden",150,SITE_TYPE_SUPERCHARGER,20,Sweden
+53.845951,9.93615,"Tesla Supercharger Kaltenkirchen, Germany",250,SITE_TYPE_SUPERCHARGER,20,Germany
+50.188622,9.186174,"Tesla Supercharger Gelnhausen, Germany",250,SITE_TYPE_SUPERCHARGER,11,Germany
+39.134675,-2.039013,"Tesla Supercharger Albacete, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+39.890125,8.5997038,"Tesla Supercharger Oristano, Italy",125,SITE_TYPE_SUPERCHARGER,4,Italy
+45.147765,8.990621,"Tesla Supercharger Dorno Ovest, Italy",150,SITE_TYPE_SUPERCHARGER,6,Italy
+47.880344,10.040342,"Tesla Supercharger Aichstetten, Germany",130,SITE_TYPE_SUPERCHARGER,8,Germany
+50.924425,1.80414,"Tesla Supercharger Calais, France",150,SITE_TYPE_SUPERCHARGER,6,France
+50.336704,3.455931,"Tesla Supercharger Valenciennes, France",150,SITE_TYPE_SUPERCHARGER,10,France
+49.772318,9.587156,"Tesla Supercharger Wertheim-Almosenberg, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.880495,8.625845,"Tesla Supercharger Rjukan, Norway",250,SITE_TYPE_SUPERCHARGER,6,Norway
+50.546455,11.803402,"Tesla Supercharger Schleiz, Germany",250,SITE_TYPE_SUPERCHARGER,40,Germany
+50.202872,11.776552,"Tesla Supercharger Münchberg-Nord, Germany",250,SITE_TYPE_SUPERCHARGER,10,Germany
+44.8342,-0.681109,"Tesla Supercharger Bordeaux, France - Merignac",150,SITE_TYPE_SUPERCHARGER,10,France
+45.722035,4.923751,"Tesla Supercharger Bron, France",250,SITE_TYPE_SUPERCHARGER,28,France
+51.601701,-2.934468,"Tesla Supercharger Newport, UK",250,SITE_TYPE_SUPERCHARGER,12,UK
+54.583387,-5.960643,"Tesla Supercharger Belfast, UK",250,SITE_TYPE_SUPERCHARGER,4,UK
+42.701175,-2.91944,"Tesla Supercharger Rivabellosa, Spain",250,SITE_TYPE_SUPERCHARGER,12,Spain
+48.625604,12.320251,"Tesla Supercharger Wörth, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.85183,3.542802,"Tesla Supercharger Auxerre, France -  Appoigny",150,SITE_TYPE_SUPERCHARGER,8,France
+51.08246,13.274088,"Tesla Supercharger Nossen, Germany",250,SITE_TYPE_SUPERCHARGER,10,Germany
+59.037465,9.673842,"Tesla Supercharger Lasses, Norway",150,SITE_TYPE_SUPERCHARGER,20,Norway
+51.57803,0.18525,"Tesla Supercharger London, UK - Romford",250,SITE_TYPE_SUPERCHARGER,12,UK
+48.08208,-1.684395,"Tesla Supercharger Rennes, France",150,SITE_TYPE_SUPERCHARGER,8,France
+50.934251,11.289795,"Tesla Supercharger Weimar, Germany",150,SITE_TYPE_SUPERCHARGER,6,Germany
+52.724169,6.883522,"Tesla Supercharger Emmen, Netherlands",250,SITE_TYPE_SUPERCHARGER,12,Netherlands
+45.8723553,6.6309302,"Tesla Supercharger Megève, France",250,SITE_TYPE_SUPERCHARGER,8,France
+49.507382,8.63748,"Tesla Supercharger Hirschberg, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+58.972192,5.737069,"Tesla Supercharger Stavanger Central, Norway",250,SITE_TYPE_SUPERCHARGER,16,Norway
+48.835937,2.799243,Tesla Supercharger Centre Tesla Paris-Val d’Europe,250,SITE_TYPE_SUPERCHARGER,16,Tesla Supercharger Centre Tesla Paris
+56.386037,-3.47947,"Tesla Supercharger Perth, UK",150,SITE_TYPE_SUPERCHARGER,12,UK
+39.400667,-0.493083,"Tesla Supercharger Torrent Southbound, Spain",150,SITE_TYPE_SUPERCHARGER,2,Spain
+52.329339,4.784994,"Tesla Supercharger Badhoevedorp, Netherlands",150,SITE_TYPE_SUPERCHARGER,32,Netherlands
+51.290043,12.137328,"Tesla Supercharger Nempitz, Germany",150,SITE_TYPE_SUPERCHARGER,8,Germany
+46.298316,-0.37511,"Tesla Supercharger Niort, France",250,SITE_TYPE_SUPERCHARGER,12,France
+51.649541,7.67117,"Tesla Supercharger Bergkamen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.737393,-1.09483,"Tesla Supercharger Oxford, UK",150,SITE_TYPE_SUPERCHARGER,16,UK
+46.995355,11.502001,"Tesla Supercharger Brennero, Italy",250,SITE_TYPE_SUPERCHARGER,24,Italy
+47.567996,10.675935,"Tesla Supercharger Füssen, Germany",250,SITE_TYPE_SUPERCHARGER,18,Germany
+48.493409,-2.722584,"Tesla Supercharger Saint-Brieuc, France",150,SITE_TYPE_SUPERCHARGER,8,France
+57.028956,14.014744,"Tesla Supercharger Toftaholm, Sweden",250,SITE_TYPE_SUPERCHARGER,16,Sweden
+49.079621,6.10359,"Tesla Supercharger Metz Sud, France",250,SITE_TYPE_SUPERCHARGER,28,France
+47.272037,8.437791,"Tesla Supercharger Obfelden, Switzerland",250,SITE_TYPE_SUPERCHARGER,12,Switzerland
+51.626573,4.869871,"Tesla Supercharger Oosterhout, Netherlands",150,SITE_TYPE_SUPERCHARGER,12,Netherlands
+58.227074,14.668253,"Tesla Supercharger Ödeshög, Sweden",150,SITE_TYPE_SUPERCHARGER,14,Sweden
+47.165186,9.507766,"Tesla Supercharger Schaan, Liechtenstein",125,SITE_TYPE_SUPERCHARGER,10,Liechtenstein
+40.753019,0.606421,"Tesla Supercharger L´Aldea, Spain",150,SITE_TYPE_SUPERCHARGER,8,Spain
+55.0078,-3.083018,"Tesla Supercharger Gretna Green, UK",150,SITE_TYPE_SUPERCHARGER,4,UK
+46.863047,1.716028,"Tesla Supercharger Châteauroux, France",150,SITE_TYPE_SUPERCHARGER,8,France
+52.948601,-0.678092,"Tesla Supercharger Grantham, UK",150,SITE_TYPE_SUPERCHARGER,16,UK
+56.122406,9.173014,"Tesla Supercharger Ikast, Denmark",250,SITE_TYPE_SUPERCHARGER,16,Denmark
+44.112164,4.851759,"Tesla Supercharger Orange, France",250,SITE_TYPE_SUPERCHARGER,16,France
+48.887933,14.436329,"Tesla Supercharger Kamenný Újezd, Czech Republic",250,SITE_TYPE_SUPERCHARGER,8,Czech Republic
+50.483878,5.700335,"Tesla Supercharger Remouchamps, Belgium",150,SITE_TYPE_SUPERCHARGER,10,Belgium
+43.293887,-3.005121,"Tesla Supercharger Barakaldo, Spain - MegaPark",250,SITE_TYPE_SUPERCHARGER,16,Spain
+42.06240999,14.77891254,"Tesla Supercharger Montenero di Bisaccia, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+46.604164,13.869183,"Tesla Supercharger Villach, Austria",150,SITE_TYPE_SUPERCHARGER,8,Austria
+59.816851,6.752166,"Tesla Supercharger Røldal, Norway",150,SITE_TYPE_SUPERCHARGER,12,Norway
+52.122721,10.229286,"Tesla Supercharger Burgdorf, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+47.264861,11.428453,"Tesla Supercharger Innsbruck, Austria",125,SITE_TYPE_SUPERCHARGER,6,Austria
+48.516352,9.75746,"Tesla Supercharger Merklingen, Germany",250,SITE_TYPE_SUPERCHARGER,40,Germany
+48.039651,11.661214,"Tesla Supercharger Brunnthal, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+52.547541,4.722741,"Tesla Supercharger Akersloot, Netherlands",250,SITE_TYPE_SUPERCHARGER,8,Netherlands
+40.298097,-3.820944,"Tesla Supercharger Fuenlabrada, Spain - Service Center",250,SITE_TYPE_SUPERCHARGER,8,Spain
+50.452274,4.430456,"Tesla Supercharger Charleroi, Belgium",250,SITE_TYPE_SUPERCHARGER,12,Belgium
+55.068158,9.360839,"Tesla Supercharger Rødekro, Denmark",150,SITE_TYPE_SUPERCHARGER,16,Denmark
+48.196485,14.527879,"Tesla Supercharger St. Valentin, Austria",125,SITE_TYPE_SUPERCHARGER,8,Austria
+45.607412,13.93151,"Tesla Supercharger Kozina, Slovenia",150,SITE_TYPE_SUPERCHARGER,4,Slovenia
+50.878782,4.373321,"Tesla Supercharger Brussels, Belgium - Urban",250,SITE_TYPE_SUPERCHARGER,8,Belgium
+59.179684,10.209182,"Tesla Supercharger Fokserød, Norway",250,SITE_TYPE_SUPERCHARGER,24,Norway
+55.945358,-3.366676,"Tesla Supercharger Edinburgh, UK ",130,SITE_TYPE_SUPERCHARGER,2,UK
+41.859029,2.767237,"Tesla Supercharger Caldes de Malavella, Spain",250,SITE_TYPE_SUPERCHARGER,20,Spain
+51.428333,-0.898835,"Tesla Supercharger Wokingham, UK",138,SITE_TYPE_SUPERCHARGER,16,UK
+49.161215,11.260581,"Tesla Supercharger Hilpoltstein, Germany",250,SITE_TYPE_SUPERCHARGER,16,Germany
+48.343506,8.663626,"Tesla Supercharger Sulz-Vöhringen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+51.632755,9.909927,"Tesla Supercharger Nörten-Hardenberg, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+44.351611,8.565435,"Tesla Supercharger Varazze, Italy",150,SITE_TYPE_SUPERCHARGER,8,Italy
+51.485683,6.88661,"Tesla Supercharger Oberhausen, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+59.602856,10.741187,"Tesla Supercharger Vestby, Norway",250,SITE_TYPE_SUPERCHARGER,40,Norway
+45.08225363,6.71121995,"Tesla Supercharger Bardonecchia, Italy",250,SITE_TYPE_SUPERCHARGER,8,Italy
+59.122085,9.707432,"Tesla Supercharger Porsgrunn, Norway - Telemarksporten",150,SITE_TYPE_SUPERCHARGER,12,Norway
+52.216065,-1.504796,"Tesla Supercharger Warwick, UK - Northbound",150,SITE_TYPE_SUPERCHARGER,8,UK
+40.519814,-3.656953,"Tesla Supercharger Alcobendas, Spain",250,SITE_TYPE_SUPERCHARGER,20,Spain
+51.731877,9.972773,"Tesla Supercharger Northeim Nord, Germany",250,SITE_TYPE_SUPERCHARGER,12,Germany
+53.169567,6.852949,"Tesla Supercharger Zuidbroek, Netherlands",250,SITE_TYPE_SUPERCHARGER,8,Netherlands
+49.181181,10.06936,"Tesla Supercharger Satteldorf, Germany",250,SITE_TYPE_SUPERCHARGER,10,Germany
+47.4081557,9.3043631,"Tesla Supercharger St. Gallen, Switzerland",250,SITE_TYPE_SUPERCHARGER,16,Switzerland
+51.4385,0.266639,"Tesla Supercharger Dartford, UK",130,SITE_TYPE_SUPERCHARGER,17,UK
+51.774411,4.653324,"Tesla Supercharger Dordrecht, Netherlands",150,SITE_TYPE_SUPERCHARGER,16,Netherlands
+46.126595,7.060944,"Tesla Supercharger Martigny, Switzerland",250,SITE_TYPE_SUPERCHARGER,20,Switzerland
+51.4808,-0.44419,"Tesla Supercharger Heathrow, UK - Terminals 2 & 3",250,SITE_TYPE_SUPERCHARGER,16,UK
+49.770776,9.576252,"Tesla Supercharger Wertheim, Germany",150,SITE_TYPE_SUPERCHARGER,6,Germany
+52.38641,0.664606,"Tesla Supercharger Thetford, UK",150,SITE_TYPE_SUPERCHARGER,8,UK
