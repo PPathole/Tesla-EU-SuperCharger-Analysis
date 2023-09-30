@@ -15,3 +15,5 @@ Key Findings:
 3. Power Distribution Analysis: The analysis further delved into the power distribution across charging stalls. This included identifying the proportion of stations offering different power levels (e.g., 150 kW, 250 kW), and providing a comprehensive view of the charging landscape.
 
 Overall, this project not only offered a visual representation of the Tesla Supercharger landscape in the EU region but also provided actionable insights for stakeholders in the electric vehicle ecosystem, contributing to a more informed understanding of charging infrastructure in this dynamic and rapidly evolving sector.
+
+![dashboard](https://github.com/PPathole/Tesla-EU-SuperCharger-Analysis/assets/38600100/18c97eb9-db31-4038-9f22-c667095a1de6)
